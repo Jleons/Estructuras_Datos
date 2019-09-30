@@ -2,9 +2,13 @@ package main;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
 import data.*;
 import ui.Consola;
+
+/**
+ *
+ * @author Daniel Delgado, Sebastian Leon, Juan Avila
+ */
 
 public class SistemaDeReserva {
 
